@@ -15,8 +15,8 @@ set -e
 set -x
 
 # directories
-MERLINDIR="~/asuswrt-merlin"
-PACKAGEDIR="~/v4l2loopback"
+MERLINDIR="$HOME/asuswrt-merlin"
+PACKAGEDIR="$HOME/v4l2loopback"
 
 # download v4l2loopback
 cd
