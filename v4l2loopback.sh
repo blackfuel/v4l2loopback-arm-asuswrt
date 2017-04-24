@@ -5,7 +5,7 @@
 # This script is a kernel patch for adding v4l2loopbackup capability to 
 # Asus ARM routers.
 #
-# Location of v4l2loopback kernel modules after building AsusWRT:
+# Location of the new kernel modules after building the AsusWRT firmware:
 # ~/asuswrt-merlin/release/src/router/arm-uclibc/target/lib/modules/2.6.36.4brcmarm/kernel/drivers/media
 #
 #############################################################################
